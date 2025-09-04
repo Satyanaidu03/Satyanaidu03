@@ -58,6 +58,19 @@
 
 ---
 
+## 🌟 Featured Projects
+
+| 💡 Project         | 🔗 Link                                                    | 📝 Description                              |
+|--------------------|-----------------------------------------------------------|---------------------------------------------|
+| Portfolio Website  | [Satya-s-Portfolio](https://github.com/Satyanaidu03/Satya-s-Portfolio) | My personal portfolio showcasing my work and journey. |
+| Portfolio Webpage  | [Portfolio](https://satyasfolio.vercel.app/)              | My deployed portfolio website.              |
+| Smart Split App    | [smart-split-App](https://github.com/Satyanaidu03/smart-split-App) | A smart expense splitting app for hassle-free group finances. |
+| Spring Chatbot App | [Spring-Chatbot-App](https://github.com/Satyanaidu03/Spring-Chatbot-App) | Chatbot powered by Spring Boot and AI integrations. |
+| Workflow Approval Platform | [Workflow-Approval-Platform](https://github.com/Satyanaidu03/Workflow-Approval-Platform) | Automates workflow approvals for businesses. |
+| Job Portal App     | [JobPortalApp](https://github.com/Satyanaidu03/JobPortalApp) | Comprehensive job portal platform for employers and job seekers. |
+
+---
+
 ## 🏆 Achievements & Leadership
 
 ### 🥇 MATLAB KARE TOP 15
@@ -127,6 +140,16 @@ public class SatyaDeeven {
 📍 *Location:* Bhuvanapalli, Andhra Pradesh, India
 
 </div>
+
+---
+
+## ✨ Fun Facts & Hobbies
+
+- 🏏 Cricket lover
+- 🏋️ Fitness enthusiast
+- 🏊 Swimming
+- 💃 Dance
+- 🥋 Martial arts practitioner
 
 ---
 
